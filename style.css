@@ -1,0 +1,38 @@
+body {
+    color: white;
+}
+h1 {
+    color: #00f;
+    font-family: serif;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.parent {
+    border-radius: 25px;
+    border: 2px solid blue;
+    padding: 20px;
+    background-image: url(hehe2.jpg);
+    background-size: 150px;
+    background-repeat: repeat;
+}
+
+a {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 50px;
+}
+
+.iklan {
+    padding: 20px;
+}
+
+.side-iklan {
+    background-color: blue;
+}
